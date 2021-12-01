@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Letonik/gallery-demo.git/static/css/main.e4689667.chunk.css",
+    "main.js": "/Letonik/gallery-demo.git/static/js/main.1409fc6b.chunk.js",
+    "main.js.map": "/Letonik/gallery-demo.git/static/js/main.1409fc6b.chunk.js.map",
+    "runtime-main.js": "/Letonik/gallery-demo.git/static/js/runtime-main.df6e6a06.js",
+    "runtime-main.js.map": "/Letonik/gallery-demo.git/static/js/runtime-main.df6e6a06.js.map",
+    "static/js/2.561313bd.chunk.js": "/Letonik/gallery-demo.git/static/js/2.561313bd.chunk.js",
+    "static/js/2.561313bd.chunk.js.map": "/Letonik/gallery-demo.git/static/js/2.561313bd.chunk.js.map",
+    "static/js/3.10f9a99a.chunk.js": "/Letonik/gallery-demo.git/static/js/3.10f9a99a.chunk.js",
+    "static/js/3.10f9a99a.chunk.js.map": "/Letonik/gallery-demo.git/static/js/3.10f9a99a.chunk.js.map",
+    "index.html": "/Letonik/gallery-demo.git/index.html",
+    "static/css/main.e4689667.chunk.css.map": "/Letonik/gallery-demo.git/static/css/main.e4689667.chunk.css.map",
+    "static/js/2.561313bd.chunk.js.LICENSE.txt": "/Letonik/gallery-demo.git/static/js/2.561313bd.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Letonik/gallery-demo.git/static/media/PlayfairDisplay-Regular.e8e87618.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df6e6a06.js",
+    "static/js/2.561313bd.chunk.js",
+    "static/css/main.e4689667.chunk.css",
+    "static/js/main.1409fc6b.chunk.js"
+  ]
+}
